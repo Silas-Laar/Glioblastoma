@@ -1,2 +1,2 @@
 # Glioblastoma-Tumor-Segmentation-Using-Deep-Learning
- Built a custom U-Net model and trained it on the BraTS2020 multimodal brain MRI dataset to accurately segment  tumors.
+ Developed and trained a custom U-Net segmentation model on the BraTS2020 multimodal brain MRI dataset for automated brain tumor segmentation. The model achieved 99.25% test accuracy, 99.10% sensitivity, and 99.76% specificity, with a Dice coefficient of 0.606 overall. Tumor-subregion segmentation achieved Dice scores of 0.595 for necrotic tissue, 0.705 for edema, and 0.615 for enhancing tumor, demonstrating effective pixel-level delineation of heterogeneous tumor regions.
